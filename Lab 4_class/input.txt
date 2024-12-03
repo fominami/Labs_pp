@@ -1,0 +1,4 @@
+Alice,1234567811,8765432133,,alice@example.com,,123 Main St
+Bob,9876543222,,,bob@example.com,,
+Charlie,5555555544,,,charlie@example.com,,
+Maria,1234567890,5555555544,5555555544,charlie@example.com,www.m.com,111 Street
